@@ -40,7 +40,7 @@ const navbarOpen = false;
             class="rounded-md"
             src="https://open.spotify.com/embed/artist/2q2E2GheKlqjEBXPUEAcNR?utm_source=generator"
             width="100%" height="352"
-            frameBorder="0" allowfullscreen=""
+            frameBorder="0" allowfullscreen="false"
             allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </section>
 
