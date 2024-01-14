@@ -36,7 +36,12 @@ const navbarOpen = false;
         >
             Ian Jamieson on Spotify
         </h2>
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2q2E2GheKlqjEBXPUEAcNR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <iframe
+            class="rounded-md"
+            src="https://open.spotify.com/embed/artist/2q2E2GheKlqjEBXPUEAcNR?utm_source=generator"
+            width="100%" height="352"
+            frameBorder="0" allowfullscreen=""
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </section>
 
     <section class="p-12">
@@ -66,9 +71,5 @@ const navbarOpen = false;
     <footer>
 
     </footer>
-
-
-
-
 
 </template>
